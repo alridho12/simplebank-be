@@ -5,9 +5,9 @@
   </div>
   <h3 align="center">Simple Bank</h3>
   <p align="center">
-    <a href="https://github.com/alridho12/simplebank-fe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alridho12/simplebank-be/"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="hthttps://simplebank-be.vercel.app">View Demo API</a>
+    <a href="https://simplebank-be.vercel.app">View Demo API</a>
     ·
   </p>
 </p>
